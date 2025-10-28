@@ -1,0 +1,1 @@
+R CMD INSTALL --preclean --no-multiarch --with-keep.source -l /opt/brave_prod/workspace/package/R /opt/brave_prod/workspace/code/braveR
